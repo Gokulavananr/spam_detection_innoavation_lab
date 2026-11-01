@@ -1,0 +1,9 @@
+streamlit
+opencv-python
+pytesseract
+pyzbar
+scikit-learn
+pandas
+joblib
+Pillow
+qrcode[pil]
